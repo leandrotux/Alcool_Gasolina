@@ -1,6 +1,6 @@
-# alcool_gasolina
+# Alcool ou Gasolina
 
-A new Flutter project.
+This project was created during the study of the Flutter programming language
 
 ## Getting Started
 
